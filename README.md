@@ -17,4 +17,5 @@ Examples:
 ```
 document.querySelector("#root")
 document.querySelectorAll(".details")
+document.querySelector("input[name=email]")
 ```
