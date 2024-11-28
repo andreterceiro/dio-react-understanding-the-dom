@@ -11,3 +11,10 @@ document.getElementsByTagName("td"); // The return depends on the rendered web p
 ```
 
 Another cool method is `document.querySelector()`. It returns the first element that matches the specified selectors. `document.querySelectorAll()` returns an array with the matches.
+
+Examples:
+
+```
+document.querySelector("#root")
+document.querySelectorAll(".details")
+```
