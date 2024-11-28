@@ -10,4 +10,4 @@ We have the method `getElementsByTagName()` of the document or of an element and
 document.getElementsByTagName("td"); // The return depends on the rendered web page
 ```
 
-Another cool method is `document.querySelector()`.
+Another cool method is `document.querySelector()`. It returns the first element that matches the specified selectors. `document.querySelectorAll()` returns an array with the matches.
